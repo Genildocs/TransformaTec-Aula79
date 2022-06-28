@@ -15,7 +15,7 @@ public class Linkelist {
         System.out.println(names.get(0)); // Pego pelo indice
         System.out.println(names.contains("Kaio")); // Verifico se o elemento existe
 
-        names.set(0,"genildo"); // Adiciono um elemento substituindo outro pelo indicie.
+        names.set(0,"Marcos"); // Adiciono um elemento substituindo outro pelo indicie.
         System.out.println(names);
 
     }
